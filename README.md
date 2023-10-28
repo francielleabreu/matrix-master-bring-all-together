@@ -16,12 +16,8 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Bootstrap</li>
-        <li>Vanilla JavaScript</li>
+        <li>JavaScript</li>
     </ul>
-    <h2>How to Contribute</h2>
-    <p>If you wish to contribute to this project, feel free to open an issue or submit a pull request on GitHub.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License. Please refer to the <a href="LICENSE">LICENSE</a> file for more details.</p>
 </body>
 </html>
 
